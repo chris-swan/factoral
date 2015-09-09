@@ -1,12 +1,12 @@
 # _Factoral_
 
-##### _This app multiplies a number by all the positive intergers less than that number, September 9, 2015_
+##### _This app multiplies a number by all the positive integers less than that number. September 9, 2015_
 
 #### By _Chris Swan and Phillip Shannon_
 
 ## Description
 
-_an operator that multiplies a number by all the positive intergers less than that number.
+_an operator that multiplies a number by all the positive integers less than that number(1-userNumber).
 
 ## Setup
 
