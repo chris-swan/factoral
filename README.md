@@ -11,7 +11,7 @@ _an operator that multiplies a number by all the positive intergers less than th
 ## Setup
 
 - clone in desktop
-- open pig-latin.html in web browser
+- open factoral.html in web browser
 
 ## Technologies Used
 
